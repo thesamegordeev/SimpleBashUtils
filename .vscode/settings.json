@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "s21_grep.h": "c",
+        "regex.h": "c"
+    }
+}
